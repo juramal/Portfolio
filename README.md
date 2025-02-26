@@ -13,7 +13,7 @@ Este repositório contém o código-fonte do meu portfólio, incluindo:
 - Seção de projetos com detalhes e imagens
 - Links para contato e redes sociais
 
-## 📌 Acesse o Portfólio
+## 📌 Acesse o Portfólio Online
 🔗 [https://juramal.github.io/Portfolio](https://juramal.github.io/Portfolio/)
 
 Sinta-se à vontade para contribuir, abrir issues ou sugerir melhorias! 😊
