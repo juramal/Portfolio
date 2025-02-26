@@ -14,6 +14,6 @@ Este repositório contém o código-fonte do meu portfólio, incluindo:
 - Links para contato e redes sociais
 
 ## 📌 Acesse o Portfólio
-🔗 [Clique aqui para visualizar meu portfólio](https://juramal.github.io/Portfolio/)
+🔗 [https://juramal.github.io/Portfolio](https://juramal.github.io/Portfolio/)
 
 Sinta-se à vontade para contribuir, abrir issues ou sugerir melhorias! 😊
